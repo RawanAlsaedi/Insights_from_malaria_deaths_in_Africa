@@ -1,4 +1,4 @@
-# Insights_from_malaria_deaths_in_Africa
+# Insights from malaria deaths in Africa
 
 
 ![image](https://www.isaaa.org/kc/cropbiotechupdate/files/images/523202232414AM.jpg)
