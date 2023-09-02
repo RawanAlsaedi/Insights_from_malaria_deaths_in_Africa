@@ -1,4 +1,4 @@
-# Insights from malaria deaths in Africa
+# Insights from Malaria Deaths in Africa
 
 This project aims to analyze, interpret data visualizations and explain insights using Tableau dashboards.
 
